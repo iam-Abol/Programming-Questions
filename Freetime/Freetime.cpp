@@ -34,7 +34,7 @@ int main()
 
 	}
 	std::cout << numberOfRepeat ;
-
+	delete[] str;
 
 	return 0;
 }
