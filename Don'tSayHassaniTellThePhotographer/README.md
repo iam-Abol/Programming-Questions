@@ -1,0 +1,1 @@
+<a href="https://quera.ir/problemset/contest/34082/%D8%B3%D8%A4%D8%A7%D9%84-%D8%AD%D8%B1%DB%8C%D8%B5%D8%A7%D9%86%D9%87-%D8%AD%D8%B3%D9%86%DB%8C-%D9%86%DA%AF%D9%88-%D8%B9%DA%A9%D8%A7%D8%B3-%D8%A8%DA%AF%D9%88">Question!</a>
