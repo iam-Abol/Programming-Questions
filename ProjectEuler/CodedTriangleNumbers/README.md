@@ -1,0 +1,1 @@
+<a href="https://projecteuler.net/problem=42">Question!</a>
